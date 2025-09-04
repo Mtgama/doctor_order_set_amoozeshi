@@ -1,0 +1,8 @@
+sounddevice>=0.4.6
+scipy>=1.10
+numpy>=1.23,<2.0
+pynput>=1.7.6
+SpeechRecognition>=3.10.0
+python-bidi>=0.4.2
+arabic-reshaper>=3.0.0
+openai==0.28
