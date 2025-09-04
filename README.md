@@ -14,7 +14,7 @@
 
 ## 📹 ویدیو آموزشی
 برای توضیح بیشتر و دموی عملی، ویدیوی آموزشی در یوتیوب آماده کرده‌ام:  
-👉 [تماشای ویدیو در YouTube]([https://youtu.be/jvMlmWG87qU?si=w5_fEC7B3UV2q4Vv](https://www.youtube.com/watch?v=jvMlmWG87qU&list=PLin8sRrtZWnFRgPdsMUN5E1rRGZWpI8kG))  
+👉 [تماشای ویدیو در YouTube]https://youtu.be/jvMlmWG87qU?si=w5_fEC7B3UV2q4Vv](https://www.youtube.com/watch?v=jvMlmWG87qU&list=PLin8sRrtZWnFRgPdsMUN5E1rRGZWpI8kG))  
 
 ---
 
